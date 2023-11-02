@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/scimics/static/css/main.d2e5bd36.css",
+    "main.js": "/scimics/static/js/main.591c9b9c.js",
+    "static/media/Group 2198.png": "/scimics/static/media/Group 2198.64e13a3a6badc6fcc012.png",
+    "static/media/Group 2199.png": "/scimics/static/media/Group 2199.e51b31e351887c5d87d5.png",
+    "static/media/Group-2195.png": "/scimics/static/media/Group-2195.dc997093989713dbae1a.png",
+    "static/media/Group 33541.png": "/scimics/static/media/Group 33541.b5909ef4bc771463539b.png",
+    "static/media/Group 33545.png": "/scimics/static/media/Group 33545.b6083aa4b3af44f79009.png",
+    "static/media/Group 33542.png": "/scimics/static/media/Group 33542.656c94acb52a16efc837.png",
+    "index.html": "/scimics/index.html",
+    "main.d2e5bd36.css.map": "/scimics/static/css/main.d2e5bd36.css.map",
+    "main.591c9b9c.js.map": "/scimics/static/js/main.591c9b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e5bd36.css",
+    "static/js/main.591c9b9c.js"
+  ]
+}
